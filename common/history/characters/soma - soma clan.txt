@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:SMA = {
+
+		create_character = {
+			ruler = yes
+			first_name = Moritane
+			last_name = Soma
+			age = 38
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Yoshitane
+			last_name = Soma
+			age = 19
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

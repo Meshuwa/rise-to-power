@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:RYK = {
+
+		create_character = {
+			ruler = yes
+			first_name = Gen
+			last_name = Sho
+			age = 39
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Ei
+			last_name = Sho
+			age = 8
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

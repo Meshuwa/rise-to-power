@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:ITO = {
+
+		create_character = {
+			ruler = yes
+			first_name = Yoshisuke
+			last_name = Ito
+			age = 55
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Suketaka
+			last_name = Ito
+			birth_date = 1559.2.22
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

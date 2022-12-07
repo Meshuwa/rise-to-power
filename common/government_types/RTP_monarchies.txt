@@ -1,0 +1,86 @@
+﻿gov_daimyo = {
+	transfer_of_power = hereditary
+	
+	male_ruler = "RULER_TITLE_DAIMYO"
+	female_ruler = "" 
+
+	male_heir = "RULER_TITLE_HEIR_APPARENT"
+	female_heir = ""
+	
+	possible = {
+		has_law = law_type:law_monarchy
+		OR = {
+			AND = { exists = c:ADO c:ADO = ROOT }
+			AND = { exists = c:AGK c:AGK = ROOT }
+			AND = { exists = c:AKA c:AKA = ROOT }
+			AND = { exists = c:AMT c:AMT = ROOT }
+			AND = { exists = c:ASN c:ASN = ROOT }
+			AND = { exists = c:AZI c:AZI = ROOT }
+			AND = { exists = c:AZK c:AZK = ROOT }
+			AND = { exists = c:BSO c:BSO = ROOT }
+			AND = { exists = c:CSK c:CSK = ROOT }
+			AND = { exists = c:DHJ c:DHJ = ROOT }
+			AND = { exists = c:DTE c:DTE = ROOT }
+			AND = { exists = c:HKI c:HKI = ROOT }
+			AND = { exists = c:HOJ c:HOJ = ROOT }
+			AND = { exists = c:IMA c:IMA = ROOT }
+			AND = { exists = c:ISK c:ISK = ROOT }
+			AND = { exists = c:ITO c:ITO = ROOT }
+			AND = { exists = c:KBT c:KBT = ROOT }
+			AND = { exists = c:KKZ c:KKZ = ROOT }
+			AND = { exists = c:KMK c:KMK = ROOT }
+			AND = { exists = c:KNO c:KNO = ROOT }
+			AND = { exists = c:KSI c:KSI = ROOT }
+			AND = { exists = c:MGM c:MGM = ROOT }
+			AND = { exists = c:MMR c:MMR = ROOT }
+			AND = { exists = c:MRI c:MRI = ROOT }
+			AND = { exists = c:MYO c:MYO = ROOT }
+			AND = { exists = c:NAB c:NAB = ROOT }
+			AND = { exists = c:NMO c:NMO = ROOT }
+			AND = { exists = c:ODA c:ODA = ROOT }
+			AND = { exists = c:OND c:OND = ROOT }
+			AND = { exists = c:OTM c:OTM = ROOT }
+			AND = { exists = c:RYK c:RYK = ROOT } # Change in future
+			AND = { exists = c:RZJ c:RZJ = ROOT }
+			AND = { exists = c:SBA c:SBA = ROOT }
+			AND = { exists = c:SGR c:SGR = ROOT }
+			AND = { exists = c:SMA c:SMA = ROOT }
+			AND = { exists = c:SMZ c:SMZ = ROOT }
+			AND = { exists = c:SOJ c:SOJ = ROOT }
+			AND = { exists = c:SOU c:SOU = ROOT }
+			AND = { exists = c:STK c:STK = ROOT }
+			AND = { exists = c:STM c:STM = ROOT }
+			AND = { exists = c:SZK c:SZK = ROOT }
+			AND = { exists = c:TGS c:TGS = ROOT }
+			AND = { exists = c:TKD c:TKD = ROOT }
+			AND = { exists = c:TKG c:TKG = ROOT }
+			AND = { exists = c:TMR c:TMR = ROOT }
+			AND = { exists = c:TTI c:TTI = ROOT }
+			AND = { exists = c:TZW c:TZW = ROOT }
+			AND = { exists = c:UGM c:UGM = ROOT }
+			AND = { exists = c:USG c:USG = ROOT }
+			AND = { exists = c:YKI c:YKI = ROOT }
+			AND = { exists = c:YMN c:YMN = ROOT }
+		}
+		NOT = { has_variable = meiji_var }
+	}
+}
+
+gov_shogunate2 = {
+	transfer_of_power = hereditary
+	
+	male_ruler = "RULER_TITLE_SHOGUN"
+	female_ruler = "RULER_TITLE_SHOGUN" 
+
+	male_heir = "RULER_TITLE_HEIR_APPARENT"
+	female_heir = "RULER_TITLE_HEIR_APPARENT"
+	
+	possible = {
+		OR = {
+			AND = { exists = c:AKG c:AKG = ROOT }
+			AND = { exists = c:JPN c:JPN = ROOT }
+		}
+		has_law = law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+	}
+}

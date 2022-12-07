@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:TTI = {
+
+		create_character = {
+			ruler = yes
+			first_name = Junkei
+			last_name = Tsutsui
+			birth_date = 1549.3.31
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Sadatsugu
+			last_name = Tsutsui
+			birth_date = 1562.6.6
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

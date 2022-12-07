@@ -1,0 +1,213 @@
+﻿DIPLOMACY = {
+	c:AKG = {
+		create_diplomatic_pact = {
+			country = c:ADO
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:AGK
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:AKA
+			type = daimyo
+		}
+		create_diplomatic_pact = {		
+			country = c:AMT
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:ASN
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:AZI
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:AZK
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:BSO
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:CSK
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:DHJ
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:DTE
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:HGJ
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:HKI
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:HOJ
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:ISK
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:IMA
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:ITO
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:KBT
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:KKZ
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:KMK
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:KNO
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:KSI
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:MGM
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:MMR
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:MRI
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:MYO
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:NAB
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:NMO
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:ODA
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:OND
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:OTM
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:RYK
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:RZJ
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:SBA
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:SGR
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:SMA
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:SMZ
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:SOJ
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:SOU
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:STK
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:STM
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:SZK
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:TGS
+			type = daimyo
+		}
+		create_diplomatic_pact = {		
+			country = c:TKD
+			type = daimyo
+		}
+		create_diplomatic_pact = {		
+			country = c:TKG
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:TMR
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:TTI
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:TZW
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:UGM
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:USG
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:YKI
+			type = daimyo
+		}
+		create_diplomatic_pact = {
+			country = c:YMN
+			type = daimyo
+		}
+	}
+
+}

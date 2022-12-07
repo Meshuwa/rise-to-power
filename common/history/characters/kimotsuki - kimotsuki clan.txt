@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:KMK = {
+
+		create_character = {
+			ruler = yes
+			first_name = Yoshikane
+			last_name = Kimotsuki
+			age = 32
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Kaneaki
+			last_name = Kimotsuki
+			age = 9
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

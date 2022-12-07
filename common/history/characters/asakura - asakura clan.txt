@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:AKA = {
+
+		create_character = {
+			ruler = yes
+			first_name = Yoshikage
+			last_name = Asakura
+			birth_date = 1533.10.12
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Kageakira
+			last_name = Asakura
+			age = 42
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

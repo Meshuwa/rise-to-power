@@ -1,0 +1,45 @@
+﻿CHARACTERS = {
+	c:DTE = {
+
+		create_character = {
+			ruler = yes
+			first_name = Harumune
+			last_name = Date
+			age = 48
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Terumune
+			last_name = Date
+			age = 23
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+
+		create_character = {
+			first_name = Masamune
+			last_name = Date
+			birth_date = 1567.9.5
+			ig_leader = yes
+			interest_group = ig_devout
+			ideology = ideology_moderate
+			traits = {
+				charismatic
+				inspirational_orator
+				firebrand
+			}
+		}
+		
+	}
+}

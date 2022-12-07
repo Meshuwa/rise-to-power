@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:ADO = {
+
+		create_character = {
+			ruler = yes
+			first_name = Chikasue
+			last_name = Ando
+			age = 28
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Sanesue
+			last_name = Akita
+			birth_date = 1576.3.30
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

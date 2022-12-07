@@ -1,0 +1,18 @@
+﻿CHARACTERS = {
+	c:SGR = {
+
+		create_character = {
+			ruler = yes
+			first_name = Yoshihi
+			last_name = Sagara
+			birth_date = 1544.3.1
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+		
+	}
+}

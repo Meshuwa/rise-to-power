@@ -1,0 +1,18 @@
+﻿CHARACTERS = {
+	c:KSI = {
+
+		create_character = {
+			ruler = yes
+			first_name = Harunobu
+			last_name = Kasai
+			age = 33
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+		
+	}
+}

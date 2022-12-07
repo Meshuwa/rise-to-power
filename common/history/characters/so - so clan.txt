@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:SOU = {
+
+		create_character = {
+			ruler = yes
+			first_name = Yoshishige
+			last_name = So
+			age = 35
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Yoshitoshi
+			last_name = So
+			age = 0
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

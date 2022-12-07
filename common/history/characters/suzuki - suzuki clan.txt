@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:SZK = {
+
+		create_character = {
+			ruler = yes
+			first_name = Sadayu
+			last_name = Suzuki
+			age = 56
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Shigehide
+			last_name = Suzuki
+			age = 21
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

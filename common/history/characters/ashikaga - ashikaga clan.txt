@@ -1,0 +1,17 @@
+﻿CHARACTERS = {
+	c:AKG = {
+
+		create_character = {
+			ruler = yes
+			first_name = Yoshiaki
+			last_name = Ashikaga
+			birth_date = 1537.12.5
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+	}
+}

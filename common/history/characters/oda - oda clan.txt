@@ -1,0 +1,47 @@
+﻿CHARACTERS = {
+	c:ODA = {
+
+		create_character = {
+			ruler = yes
+			first_name = Nobunaga
+			last_name = Oda
+			birth_date = 1534.6.23
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				innovative
+				charismatic
+				meticulous
+				cruel
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Nobutada
+			last_name = Oda
+			age = 10
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+
+		create_character = {
+			first_name = Tokichiro
+			last_name = Kinoshita
+			birth_date = 1537.3.17
+			ig_leader = yes
+			interest_group = ig_devout
+			ideology = ideology_moderate
+			traits = {
+				charismatic
+				inspirational_orator
+				firebrand
+			}
+		}
+		
+	}
+}

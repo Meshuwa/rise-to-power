@@ -1,0 +1,796 @@
+﻿JPN = { # Japan
+	dynamic_country_name = {
+		name = dyn_c_ADO
+		adjective = dyn_c_ADO_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_ADO
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_AGK
+		adjective = dyn_c_AGK_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_AGK
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_AKA
+		adjective = dyn_c_AKA_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var}
+				has_variable = base_country_AKA
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_AMT
+		adjective = dyn_c_AMT_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_AMT
+			}	
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_ASN
+		adjective = dyn_c_ASN_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_ASN
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_AZI
+		adjective = dyn_c_AZI_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_AZI
+			}	
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_AZK
+		adjective = dyn_c_AZK_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_AZK
+			}	
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_BSO
+		adjective = dyn_c_BSO_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_BSO
+			}				
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_CSK
+		adjective = dyn_c_CSK_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_CSK
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_DHJ
+		adjective = dyn_c_DHJ_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_DHJ
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_DTE
+		adjective = dyn_c_DTE_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_DTE
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_HGJ
+		adjective = dyn_c_HGJ_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_HGJ
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_HKI
+		adjective = dyn_c_HKI_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_HKI
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_HOJ
+		adjective = dyn_c_HOJ_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_HOJ
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_ISK
+		adjective = dyn_c_ISK_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_ISK
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_IMA
+		adjective = dyn_c_IMA_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_IMA
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_ITO
+		adjective = dyn_c_ITO_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_ITO
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_KBT
+		adjective = dyn_c_KBT_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_KBT
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_KKZ
+		adjective = dyn_c_KKZ_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_KKZ
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_KMK
+		adjective = dyn_c_KMK_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_KMK
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_KNO
+		adjective = dyn_c_KNO_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_KNO
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_KSI
+		adjective = dyn_c_KSI_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_KSI
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_MGM
+		adjective = dyn_c_MGM_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_MGM
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_MMR
+		adjective = dyn_c_MMR_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_MMR
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_MRI
+		adjective = dyn_c_MRI_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_MRI
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_MYO
+		adjective = dyn_c_MYO_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_MYO
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_NAB
+		adjective = dyn_c_NAB_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_NAB
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_NMO
+		adjective = dyn_c_NMO_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_NMO
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_ODA
+		adjective = dyn_c_ODA_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_ODA
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_OND
+		adjective = dyn_c_OND_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_OND
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_OTM
+		adjective = dyn_c_OTM_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_OTM
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_RYK
+		adjective = dyn_c_RYK_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_RYK
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_RZJ
+		adjective = dyn_c_RZJ_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_RZJ
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_SBA
+		adjective = dyn_c_SBA_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_SBA
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_SGR
+		adjective = dyn_c_SGR_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_SGR
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_SMA
+		adjective = dyn_c_SMA_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_SMA
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_SMZ
+		adjective = dyn_c_SMZ_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_SMZ
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_SOJ
+		adjective = dyn_c_SOJ_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_SOJ
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_SOU
+		adjective = dyn_c_SOU_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_SOU
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_STK
+		adjective = dyn_c_STK_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_STK
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_STM
+		adjective = dyn_c_STM_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_STM
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_SZK
+		adjective = dyn_c_SZK_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_SZK
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_TGS
+		adjective = dyn_c_TGS_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_TGS
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_TKD
+		adjective = dyn_c_TKD_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_TKD
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_TKG
+		adjective = dyn_c_TKG_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_TKG
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_TMR
+		adjective = dyn_c_TMR_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_TMR
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_TTI
+		adjective = dyn_c_TTI_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_TTI
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_TZW
+		adjective = dyn_c_TZW_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_TZW
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_UGM
+		adjective = dyn_c_UGM_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_UGM
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_USG
+		adjective = dyn_c_USG_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_USG
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_YKI
+		adjective = dyn_c_YKI_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_YKI
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_YMN
+		adjective = dyn_c_YMN_adj
+
+		priority = 5
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				NOT = { has_variable = meiji_var }
+				has_variable = base_country_YMN
+			}
+		}
+	}
+	dynamic_country_name = {
+		name = dyn_c_JPN
+		adjective = dyn_c_JPN_adj
+
+		priority = 10
+
+		trigger = {
+			exists = scope:actor
+			scope:actor = { 
+				has_law = law_type:law_monarchy
+				has_variable = meiji_restoration_complete
+			}
+		}
+	}
+}

@@ -1,0 +1,457 @@
+﻿je_sengoku_jidai = {
+	icon = "gfx/interface/icons/event_icons/event_military.dds"
+
+	is_shown_when_inactive = {
+		country_has_primary_culture = cu:japanese
+	}
+
+	possible = {
+		hidden_trigger = { always = yes }
+	}
+
+	immediate = {
+		if = {
+			limit = {
+				this = c:ADO
+			}
+			set_variable = {
+				name = base_country_ADO
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:AGK
+			}
+			set_variable = {
+				name = base_country_AGK
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:AKA
+			}
+			set_variable = {
+				name = base_country_AKA
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:AMT
+			}
+			set_variable = {
+				name = base_country_AMT
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:ASN
+			}
+			set_variable = {
+				name = base_country_ASN
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:AZI
+			}
+			set_variable = {
+				name = base_country_AZI
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:AZK
+			}
+			set_variable = {
+				name = base_country_AZK
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:BSO
+			}
+			set_variable = {
+				name = base_country_BSO
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:CSK
+			}
+			set_variable = {
+				name = base_country_CSK
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:DHJ
+			}
+			set_variable = {
+				name = base_country_DHJ
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:DTE
+			}
+			set_variable = {
+				name = base_country_DTE
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:HGJ
+			}
+			set_variable = {
+				name = base_country_HGJ
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:HKI
+			}
+			set_variable = {
+				name = base_country_HKI
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:HOJ
+			}
+			set_variable = {
+				name = base_country_HOJ
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:ISK
+			}
+			set_variable = {
+				name = base_country_ISK
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:IMA
+			}
+			set_variable = {
+				name = base_country_IMA
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:ITO
+			}
+			set_variable = {
+				name = base_country_ITO
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:KBT
+			}
+			set_variable = {
+				name = base_country_KBT
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:KKZ
+			}
+			set_variable = {
+				name = base_country_KKZ
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:KMK
+			}
+			set_variable = {
+				name = base_country_KMK
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:KNO
+			}
+			set_variable = {
+				name = base_country_KNO
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:KSI
+			}
+			set_variable = {
+				name = base_country_KSI
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:MGM
+			}
+			set_variable = {
+				name = base_country_MGM
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:MMR
+			}
+			set_variable = {
+				name = base_country_MMR
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:MRI
+			}
+			set_variable = {
+				name = base_country_MRI
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:MYO
+			}
+			set_variable = {
+				name = base_country_MYO
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:NAB
+			}
+			set_variable = {
+				name = base_country_NAB
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:NMO
+			}
+			set_variable = {
+				name = base_country_NMO
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:ODA
+			}
+			set_variable = {
+				name = base_country_ODA
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:OND
+			}
+			set_variable = {
+				name = base_country_OND
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:OTM
+			}
+			set_variable = {
+				name = base_country_OTM
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:RYK
+			}
+			set_variable = {
+				name = base_country_RYK
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:RZJ
+			}
+			set_variable = {
+				name = base_country_RZJ
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:SBA
+			}
+			set_variable = {
+				name = base_country_SBA
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:SGR
+			}
+			set_variable = {
+				name = base_country_SGR
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:SMA
+			}
+			set_variable = {
+				name = base_country_SMA
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:SMZ
+			}
+			set_variable = {
+				name = base_country_SMZ
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:SOJ
+			}
+			set_variable = {
+				name = base_country_SOJ
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:SOU
+			}
+			set_variable = {
+				name = base_country_SOU
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:STK
+			}
+			set_variable = {
+				name = base_country_STK
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:STM
+			}
+			set_variable = {
+				name = base_country_STM
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:SZK
+			}
+			set_variable = {
+				name = base_country_SZK
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:TGS
+			}
+			set_variable = {
+				name = base_country_TGS
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:TKD
+			}
+			set_variable = {
+				name = base_country_TKD
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:TKG
+			}
+			set_variable = {
+				name = base_country_TKG
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:TMR
+			}
+			set_variable = {
+				name = base_country_TMR
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:TTI
+			}
+			set_variable = {
+				name = base_country_TTI
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:TZW
+			}
+			set_variable = {
+				name = base_country_TZW
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:UGM
+			}
+			set_variable = {
+				name = base_country_UGM
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:USG
+			}
+			set_variable = {
+				name = base_country_USG
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:YKI
+			}
+			set_variable = {
+				name = base_country_YKI
+			}
+		}
+		else_if = {
+			limit = {
+				this = c:YMN
+			}
+			set_variable = {
+				name = base_country_YMN
+			}
+		}
+	}
+
+	complete = {
+		OR = {
+			custom_tooltip = {
+				text = unified_japan
+				exists = c:JPN
+				# has_variable = unified_japan_var
+			}
+			AND = {
+				owns_entire_state_region = STATE_KANSAI
+				calc_true_if = {
+					amount >= 6
+					owns_entire_state_region = STATE_CHUBU
+					owns_entire_state_region = STATE_CHUGOKU
+					owns_entire_state_region = STATE_HOKKAIDO
+					owns_entire_state_region = STATE_KANTO
+					owns_entire_state_region = STATE_KYUSHU
+					owns_entire_state_region = STATE_RYUKYU_ISLANDS
+					owns_entire_state_region = STATE_SHIKOKU
+					owns_entire_state_region = STATE_TOHOKU
+				}
+			}
+		}
+	}
+
+	weight = 100
+	should_be_pinned_by_default = yes
+}

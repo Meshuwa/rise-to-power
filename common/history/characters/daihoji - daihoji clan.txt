@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:DHJ = {
+
+		create_character = {
+			ruler = yes
+			first_name = Yoshimasu
+			last_name = Daihoji
+			age = 45
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Yoshiuji
+			last_name = Daihoji
+			age = 16
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

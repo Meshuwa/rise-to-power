@@ -1,0 +1,18 @@
+﻿CHARACTERS = {
+	c:STK = {
+
+		create_character = {
+			ruler = yes
+			first_name = Yoshishige
+			last_name = Satake
+			birth_date = 1547.3.7
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+		
+	}
+}

@@ -1,0 +1,539 @@
+ADO = {
+	pattern = "pattern_mon.tga"
+	color1 = "orange"
+	
+	textured_emblem = {
+		texture = "ando_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+AGK = {
+	pattern = "pattern_mon.tga"
+	color1 = "red"
+	
+	textured_emblem = {
+		texture = "anegakoji_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+AKA = {
+	pattern = "pattern_mon.tga"
+	color1 = "green_light"
+	
+	textured_emblem = {
+		texture = "asakura_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+AKG = {
+	pattern = "pattern_mon.tga"
+	color1 = "red"
+	
+	textured_emblem = {
+		texture = "ashikaga_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+AMT = {
+	pattern = "pattern_mon.tga"
+	color1 = "blue_light"
+	
+	textured_emblem = {
+		texture = "akamatsu_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+ASN = {
+	pattern = "pattern_mon.tga"
+	color1 = "purple"
+	
+	textured_emblem = {
+		texture = "ashina_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+AZI = {
+	pattern = "pattern_mon.tga"
+	color1 = "green_dark"
+	
+	textured_emblem = {
+		texture = "azai_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+AZK = {
+	pattern = "pattern_mon.tga"
+	color1 = "yellow"
+	
+	textured_emblem = {
+		texture = "akizuki_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+BSO = {
+	pattern = "pattern_mon.tga"
+	color1 = "yellow"
+	
+	textured_emblem = {
+		texture = "bessho_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+CSK = {
+	pattern = "pattern_mon.tga"
+	color1 = "orange"
+	
+	textured_emblem = {
+		texture = "chosokabe_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+DHJ = {
+	pattern = "pattern_mon.tga"
+	color1 = "light_green"
+	
+	textured_emblem = {
+		texture = "daihoji_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+DTE = {
+	pattern = "pattern_mon.tga"
+	color1 = "blue_light"
+	
+	textured_emblem = {
+		texture = "date_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+HGJ = {
+	pattern = "pattern_mon.tga"
+	color1 = "white"
+	
+	textured_emblem = {
+		texture = "ikko_ikki_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+HKI = {
+	pattern = "pattern_mon.tga"
+	color1 = "yellow"
+	
+	textured_emblem = {
+		texture = "hienuki_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+HOJ = {
+	pattern = "pattern_mon.tga"
+	color1 = "blue"
+	
+	textured_emblem = {
+		texture = "hojo_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+ISK = {
+	pattern = "pattern_mon.tga"
+	color1 = "orange"
+	
+	textured_emblem = {
+		texture = "isshiki_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+IMA = {
+	pattern = "pattern_mon.tga"
+	color1 = "white"
+	
+	textured_emblem = {
+		texture = "imagawa_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+ITO = {
+	pattern = "pattern_mon.tga"
+	color1 = "green_dark"
+	
+	textured_emblem = {
+		texture = "ito_mon.dds"
+		instance = { scale  = { 0.8 0.8 } position = { 0.5 0.5 } }
+	}
+}
+
+KBT = {
+	pattern = "pattern_mon.tga"
+	color1 = "blue_light"
+	
+	textured_emblem = {
+		texture = "kitabatake_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+KKZ = {
+	pattern = "pattern_mon.tga"
+	color1 = "yellow"
+	
+	textured_emblem = {
+		texture = "kakizaki_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+KMK = {
+	pattern = "pattern_mon.tga"
+	color1 = "blue_light"
+	
+	textured_emblem = {
+		texture = "kimotsuki_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+KNO = {
+	pattern = "pattern_mon.tga"
+	color1 = "white"
+	
+	textured_emblem = {
+		texture = "kono_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+KSI = {
+	pattern = "pattern_mon.tga"
+	color1 = "pink"
+	
+	textured_emblem = {
+		texture = "kasai_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+MGM = {
+	pattern = "pattern_mon.tga"
+	color1 = "light_green"
+	
+	textured_emblem = {
+		texture = "mogami_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+MMR = {
+	pattern = "pattern_mon.tga"
+	color1 = "orange"
+	
+	textured_emblem = {
+		texture = "mimura_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+MRI = {
+	pattern = "pattern_mon.tga"
+	color1 = "red"
+	
+	textured_emblem = {
+		texture = "mori_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+MYO = {
+	pattern = "pattern_mon.tga"
+	color1 = "black"
+	
+	textured_emblem = {
+		texture = "miyoshi_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+NAB = {
+	pattern = "pattern_mon.tga"
+	color1 = "red"
+	
+	textured_emblem = {
+		texture = "nanbu_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+NMO = {
+	pattern = "pattern_mon.tga"
+	color1 = "purple"
+	
+	textured_emblem = {
+		texture = "namioka_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+ODA = {
+	pattern = "pattern_mon.tga"
+	color1 = "yellow"
+	
+	textured_emblem = {
+		texture = "oda_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+OND = {
+	pattern = "pattern_mon.tga"
+	color1 = "green_dark"
+	
+	textured_emblem = {
+		texture = "onodera_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+OTM = {
+	pattern = "pattern_mon.tga"
+	color1 = "green_light"
+	
+	textured_emblem = {
+		texture = "otomo_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+RYK = {
+	pattern = "pattern_mon.tga"
+	color1 = "light_purple"
+	
+	textured_emblem = {
+		texture = "ryukyu_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+RZJ = {
+	pattern = "pattern_mon.tga"
+	color1 = "red"
+	
+	textured_emblem = {
+		texture = "ryuzoji_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+SBA = {
+	pattern = "pattern_mon.tga"
+	color1 = "light_blue"
+	
+	textured_emblem = {
+		texture = "shiba_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+SGR = {
+	pattern = "pattern_mon.tga"
+	color1 = "orange"
+	
+	textured_emblem = {
+		texture = "sagara_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+SMA = {
+	pattern = "pattern_mon.tga"
+	color1 = "red"
+	
+	textured_emblem = {
+		texture = "soma_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+SMZ = {
+	pattern = "pattern_mon.tga"
+	color1 = "green_light"
+	
+	textured_emblem = {
+		texture = "shimazu_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+SOJ = {
+	pattern = "pattern_mon.tga"
+	color1 = "orange"
+	
+	textured_emblem = {
+		texture = "saionji_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+SOU = {
+	pattern = "pattern_mon.tga"
+	color1 = "pink"
+	
+	textured_emblem = {
+		texture = "so_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+STK = {
+	pattern = "pattern_mon.tga"
+	color1 = "orange"
+	
+	textured_emblem = {
+		texture = "satake_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+STM = {
+	pattern = "pattern_mon.tga"
+	color1 = "yellow"
+	
+	textured_emblem = {
+		texture = "satomi_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+SZK = {
+	pattern = "pattern_mon.tga"
+	color1 = "red_light"
+	
+	textured_emblem = {
+		texture = "suzuki_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+TGS = {
+	pattern = "pattern_mon.tga"
+	color1 = "brown_light"
+	
+	textured_emblem = {
+		texture = "tanegashima_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+TKD = {
+	pattern = "pattern_mon.tga"
+	color1 = "red"
+	
+	textured_emblem = {
+		texture = "takeda_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+TKG = {
+	pattern = "pattern_mon.tga"
+	color1 = "green_dark"
+	
+	textured_emblem = {
+		texture = "tokugawa_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+TMR = {
+	pattern = "pattern_mon.tga"
+	color1 = "light_green"
+	
+	textured_emblem = {
+		texture = "tamura_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+TTI = {
+	pattern = "pattern_mon.tga"
+	color1 = "orange"
+	
+	textured_emblem = {
+		texture = "tsutsui_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+TZW = {
+	pattern = "pattern_mon.tga"
+	color1 = "yellow"
+	
+	textured_emblem = {
+		texture = "tozawa_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+UGM = {
+	pattern = "pattern_mon.tga"
+	color1 = "pink"
+	
+	textured_emblem = {
+		texture = "uragami_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+USG = {
+	pattern = "pattern_mon.tga"
+	color1 = "blue"
+	
+	textured_emblem = {
+		texture = "uesugi_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+YKI = {
+	pattern = "pattern_mon.tga"
+	color1 = "light_blue"
+	
+	textured_emblem = {
+		texture = "yuki_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+YMN = {
+	pattern = "pattern_mon.tga"
+	color1 = "light_green"
+	
+	textured_emblem = {
+		texture = "yamana_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}
+
+PCH = {
+	pattern = "pattern_mon.tga"
+	color1 = "black"
+	
+	textured_emblem = {
+		texture = "mon_mon.dds"
+		instance = { scale  = { 1 1 } position = { 0.5 0.5 } }
+	}
+}

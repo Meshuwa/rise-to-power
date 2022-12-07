@@ -1,0 +1,17 @@
+﻿
+gov_ikko_ikki_sect = {
+	transfer_of_power = dictatorial
+	male_ruler = "RULER_TITLE_CHIEF_ABBOT"
+	female_ruler = "RULER_TITLE_CHIEF_ABBOT"
+
+	possible = {
+		has_law = law_type:law_theocracy
+		OR = {
+			AND = { exists = c:HGJ c:HGJ = ROOT }
+			country_has_state_religion = rel:mahayana
+			country_has_state_religion = rel:theravada
+			country_has_state_religion = rel:shinto
+		}
+	}
+}
+

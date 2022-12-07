@@ -1,0 +1,860 @@
+﻿# Japanese clans
+ADO = {
+	flag_definition = {
+		coa = ADO
+		subject_canton = ADO
+		priority = 1
+	}
+}
+
+AGK = {
+	flag_definition = {
+		coa = AGK
+		subject_canton = AGK
+		priority = 1
+	}
+}
+
+AKA = {
+	flag_definition = {
+		coa = AKA
+		subject_canton = AKA
+		priority = 1
+	}
+}
+
+AKG = {
+	flag_definition = {
+		coa = AKG
+		subject_canton = AKG
+		priority = 1
+	}
+}
+
+AMT = {
+	flag_definition = {
+		coa = AMT
+		subject_canton = AMT
+		priority = 1
+	}
+}
+
+ASN = {
+	flag_definition = {
+		coa = ASN
+		subject_canton = ASN
+		priority = 1
+	}
+}
+
+AZI = {
+	flag_definition = {
+		coa = AZI
+		subject_canton = AZI
+		priority = 1
+	}
+}
+
+AZK = {
+	flag_definition = {
+		coa = AZK
+		subject_canton = AZK
+		priority = 1
+	}
+}
+
+BSO = {
+	flag_definition = {
+		coa = BSO
+		subject_canton = BSO
+		priority = 1
+	}
+}
+
+CSK = {
+	flag_definition = {
+		coa = CSK
+		subject_canton = CSK
+		priority = 1
+	}
+}
+
+DHJ = {
+	flag_definition = {
+		coa = DHJ
+		subject_canton = DHJ
+		priority = 1
+	}
+}
+
+DTE = {
+	flag_definition = {
+		coa = DTE
+		subject_canton = DTE
+		priority = 1
+	}
+}
+
+HGJ = {
+	flag_definition = {
+		coa = HGJ
+		subject_canton = HGJ
+		priority = 1
+	}
+}
+
+HKI = {
+	flag_definition = {
+		coa = HKI
+		subject_canton = HKI
+		priority = 1
+	}
+}
+
+HOJ = {
+	flag_definition = {
+		coa = HOJ
+		subject_canton = HOJ
+		priority = 1
+	}
+}
+
+ISK = {
+	flag_definition = {
+		coa = ISK
+		subject_canton = ISK
+		priority = 1
+	}
+}
+
+IMA = {
+	flag_definition = {
+		coa = IMA
+		subject_canton = IMA
+		priority = 1
+	}
+}
+
+ITO = {
+	flag_definition = {
+		coa = ITO
+		subject_canton = ITO
+		priority = 1
+	}
+}
+
+KBT = {
+	flag_definition = {
+		coa = KBT
+		subject_canton = KBT
+		priority = 1
+	}
+}
+
+KKZ = {
+	flag_definition = {
+		coa = KKZ
+		subject_canton = KKZ
+		priority = 1
+	}
+}
+
+KMK = {
+	flag_definition = {
+		coa = KMK
+		subject_canton = KMK
+		priority = 1
+	}
+}
+
+KNO = {
+	flag_definition = {
+		coa = KNO
+		subject_canton = KNO
+		priority = 1
+	}
+}
+
+KSI = {
+	flag_definition = {
+		coa = KSI
+		subject_canton = KSI
+		priority = 1
+	}
+}
+
+MGM = {
+	flag_definition = {
+		coa = MGM
+		subject_canton = MGM
+		priority = 1
+	}
+}
+
+MMR = {
+	flag_definition = {
+		coa = MMR
+		subject_canton = MMR
+		priority = 1
+	}
+}
+
+MRI = {
+	flag_definition = {
+		coa = MRI
+		subject_canton = MRI
+		priority = 1
+	}
+}
+
+MYO = {
+	flag_definition = {
+		coa = MYO
+		subject_canton = MYO
+		priority = 1
+	}
+}
+
+NAB = {
+	flag_definition = {
+		coa = NAB
+		subject_canton = NAB
+		priority = 1
+	}
+}
+
+NMO = {
+	flag_definition = {
+		coa = NMO
+		subject_canton = NMO
+		priority = 1
+	}
+}
+
+ODA = {
+	flag_definition = {
+		coa = ODA
+		subject_canton = ODA
+		priority = 1
+	}
+}
+
+OND = {
+	flag_definition = {
+		coa = OND
+		subject_canton = OND
+		priority = 1
+	}
+}
+
+OTM = {
+	flag_definition = {
+		coa = OTM
+		subject_canton = OTM
+		priority = 1
+	}
+}
+
+RYK = {
+	flag_definition = {
+		coa = RYK
+		subject_canton = RYK
+		priority = 1
+	}
+}
+
+RZJ = {
+	flag_definition = {
+		coa = RZJ
+		subject_canton = RZJ
+		priority = 1
+	}
+}
+
+SBA = {
+	flag_definition = {
+		coa = SBA
+		subject_canton = SBA
+		priority = 1
+	}
+}
+
+SGR = {
+	flag_definition = {
+		coa = SGR
+		subject_canton = SGR
+		priority = 1
+	}
+}
+
+SMA = {
+	flag_definition = {
+		coa = SMA
+		subject_canton = SMA
+		priority = 1
+	}
+}
+
+SMZ = {
+	flag_definition = {
+		coa = SMZ
+		subject_canton = SMZ
+		priority = 1
+	}
+}
+
+SOJ = {
+	flag_definition = {
+		coa = SOJ
+		subject_canton = SOJ
+		priority = 1
+	}
+}
+
+SOU = {
+	flag_definition = {
+		coa = SOU
+		subject_canton = SOU
+		priority = 1
+	}
+}
+
+STK = {
+	flag_definition = {
+		coa = STK
+		subject_canton = STK
+		priority = 1
+	}
+}
+
+STM = {
+	flag_definition = {
+		coa = STM
+		subject_canton = STM
+		priority = 1
+	}
+}
+
+SZK = {
+	flag_definition = {
+		coa = SZK
+		subject_canton = SZK
+		priority = 1
+	}
+}
+
+TGS = {
+	flag_definition = {
+		coa = TGS
+		subject_canton = TGS
+		priority = 1
+	}
+}
+
+TKD = {
+	flag_definition = {
+		coa = TKD
+		subject_canton = TKD
+		priority = 1
+	}
+}
+
+TKG = {
+	flag_definition = {
+		coa = TKG
+		subject_canton = TKG
+		priority = 1
+	}
+}
+
+TMR = {
+	flag_definition = {
+		coa = TMR
+		subject_canton = TMR
+		priority = 1
+	}
+}
+
+TTI = {
+	flag_definition = {
+		coa = TTI
+		subject_canton = TTI
+		priority = 1
+	}
+}
+
+TZW = {
+	flag_definition = {
+		coa = TZW
+		subject_canton = TZW
+		priority = 1
+	}
+}
+
+UGM = {
+	flag_definition = {
+		coa = UGM
+		subject_canton = UGM
+		priority = 1
+	}
+}
+
+USG = {
+	flag_definition = {
+		coa = USG
+		subject_canton = USG
+		priority = 1
+	}
+}
+
+YKI = {
+	flag_definition = {
+		coa = YKI
+		subject_canton = YKI
+		priority = 1
+	}
+}
+
+YMN = {
+	flag_definition = {
+		coa = YMN
+		subject_canton = YMN
+		priority = 1
+	}
+}
+
+# Unitified Japan
+JPN = {
+	flag_definition = {
+		coa = ADO
+		subject_canton = ADO
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_ADO }
+		}
+	}
+	flag_definition = {
+		coa = AGK
+		subject_canton = AGK
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_AGK }
+		}
+	}
+	flag_definition = {
+		coa = AKA
+		subject_canton = AKA
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_AKA }
+		}
+	}
+	flag_definition = {
+		coa = AKG
+		subject_canton = AKG
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_AKG }
+		}
+	}
+	flag_definition = {
+		coa = AMT
+		subject_canton = AMT
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_AMT }
+		}
+	}
+	flag_definition = {
+		coa = ASN
+		subject_canton = ASN
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_ASN }
+		}
+	}
+	flag_definition = {
+		coa = AZI
+		subject_canton = AZI
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_AZI }
+		}
+	}
+	flag_definition = {
+		coa = AZK
+		subject_canton = AZK
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_AZK }
+		}
+	}
+	flag_definition = {
+		coa = BSO
+		subject_canton = BSO
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_BSO }
+		}
+	}
+	flag_definition = {
+		coa = CSK
+		subject_canton = CSK
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_CSJ }
+		}
+	}
+	flag_definition = {
+		coa = DHJ
+		subject_canton = DHJ
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_DHJ }
+		}
+	}
+	flag_definition = {
+		coa = DTE
+		subject_canton = DTE
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_DTE }
+		}
+	}
+	flag_definition = {
+		coa = HGJ
+		subject_canton = HGJ
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_HGJ }
+		}
+	}
+	flag_definition = {
+		coa = HKI
+		subject_canton = HKI
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_HKI }
+		}
+	}
+	flag_definition = {
+		coa = HOJ
+		subject_canton = HOJ
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_HOJ }
+		}
+	}
+	flag_definition = {
+		coa = ISK
+		subject_canton = ISK
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_ISK }
+		}
+	}
+	flag_definition = {
+		coa = IMA
+		subject_canton = IMA
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_IMA }
+		}
+	}
+	flag_definition = {
+		coa = ITO
+		subject_canton = ITO
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_ITO }
+		}
+	}
+	flag_definition = {
+		coa = KBT
+		subject_canton = KBT
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_KBT }
+		}
+	}
+	flag_definition = {
+		coa = KKZ
+		subject_canton = KKZ
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_KKZ }
+		}
+	}
+	flag_definition = {
+		coa = KMK
+		subject_canton = KMK
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_KMK }
+		}
+	}
+	flag_definition = {
+		coa = KNO
+		subject_canton = KNO
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_KNO }
+		}
+	}
+	flag_definition = {
+		coa = KSI
+		subject_canton = KSI
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_KSI }
+		}
+	}
+	flag_definition = {
+		coa = MGM
+		subject_canton = MGM
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_MGM }
+		}
+	}
+	flag_definition = {
+		coa = MMR
+		subject_canton = MMR
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_MMR }
+		}
+	}
+	flag_definition = {
+		coa = MRI
+		subject_canton = MRI
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_MRI }
+		}
+	}
+	flag_definition = {
+		coa = MYO
+		subject_canton = MYO
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_MYO }
+		}
+	}
+	flag_definition = {
+		coa = NAB
+		subject_canton = NAB
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_NAB }
+		}
+	}
+	flag_definition = {
+		coa = NMO
+		subject_canton = NMO
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_NMO }
+		}
+	}
+	flag_definition = {
+		coa = ODA
+		subject_canton = ODA
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_ODA }
+		}
+	}
+	flag_definition = {
+		coa = OND
+		subject_canton = OND
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_OND }
+		}
+	}
+	flag_definition = {
+		coa = OTM
+		subject_canton = OTM
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_OTM }
+		}
+	}
+	flag_definition = {
+		coa = RYK
+		subject_canton = RYK
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_RYK }
+		}
+	}
+	flag_definition = {
+		coa = RZJ
+		subject_canton = RZJ
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_RZJ }
+		}
+	}
+	flag_definition = {
+		coa = SBA
+		subject_canton = SBA
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_SBA }
+		}
+	}
+	flag_definition = {
+		coa = SGR
+		subject_canton = SGR
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_SGR }
+		}
+	}
+	flag_definition = {
+		coa = SMA
+		subject_canton = SMA
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_SMA }
+		}
+	}
+	flag_definition = {
+		coa = SMZ
+		subject_canton = SMZ
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_SMZ }
+		}
+	}
+	flag_definition = {
+		coa = SOJ
+		subject_canton = SOJ
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_SOJ }
+		}
+	}
+	flag_definition = {
+		coa = SOU
+		subject_canton = SOU
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_SOU }
+		}
+	}
+	flag_definition = {
+		coa = STK
+		subject_canton = STK
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_STK }
+		}
+	}
+	flag_definition = {
+		coa = STM
+		subject_canton = STM
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_STM }
+		}
+	}
+	flag_definition = {
+		coa = SZK
+		subject_canton = SZK
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_SZK }
+		}
+	}
+	flag_definition = {
+		coa = TGS
+		subject_canton = TGS
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_TGS }
+		}
+	}
+	flag_definition = {
+		coa = TKD
+		subject_canton = TKD
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_TKD }
+		}
+	}
+	flag_definition = {
+		coa = TKG
+		subject_canton = TKG
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_TKG }
+		}
+	}
+	flag_definition = {
+		coa = TMR
+		subject_canton = TMR
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_TMR }
+		}
+	}
+	flag_definition = {
+		coa = TTI
+		subject_canton = TTI
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_TTI }
+		}
+	}
+	flag_definition = {
+		coa = TZW
+		subject_canton = TZW
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_TZW }
+		}
+	}
+	flag_definition = {
+		coa = UGM
+		subject_canton = UGM
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_UGM }
+		}
+	}
+	flag_definition = {
+		coa = USG
+		subject_canton = USG
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_USG }
+		}
+	}
+	flag_definition = {
+		coa = YKI
+		subject_canton = YKI
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_YKI }
+		}
+	}
+	flag_definition = {
+		coa = YMN
+		subject_canton = YMN
+		priority = 1
+		trigger = {
+			scope:actor = { has_variable = base_country_YMN }
+		}
+	}
+}
+
+PCH = {
+	flag_definition = {
+		coa = PCH
+		subject_canton = PCH
+		priority = 1
+	}
+}

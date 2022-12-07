@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:NAB = {
+
+		create_character = {
+			ruler = yes
+			first_name = Harumasa
+			last_name = Nanbu
+			age = 50
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Nobunao
+			last_name = Nanbu
+			birth_date = 1546.3.1
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

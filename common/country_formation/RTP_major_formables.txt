@@ -1,0 +1,26 @@
+﻿JPN = {
+	required_states_fraction = 0.5
+
+	use_culture_states = yes
+	
+	is_major_formation = yes
+
+	unification_play = dp_sengoku_jidai
+	leadership_play = dp_leadership_japan
+
+	ai_will_do = { always = yes }
+
+	possible = {
+		owns_entire_state_region = STATE_KANSAI
+		owns_entire_state_region = STATE_KANTO
+		OR = {
+			country_has_primary_culture = cu:japanese
+		}
+		any_country = {
+			OR = {
+				country_has_primary_culture = cu:japanese
+			}
+			# has_technology_researched = nationalism
+		}
+	}
+}

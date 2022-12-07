@@ -1,0 +1,716 @@
+﻿#Japanese Clans By State
+# STATE_CHUBU
+# Asakura
+AKA = {
+	color = { 0 186 31 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUBU
+}
+
+# Anegakoji
+AGK = {
+	color = { 161 98 27 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUBU
+}
+
+# Hatekeyama # Needs map changes
+
+# Imagawa
+IMA = {
+	color = { 71 0 171 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUBU
+}
+
+# Oda
+ODA = {
+	color = { 80 64 136 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUBU
+}
+
+# Tokugawa
+TKG = {
+	color = "tokugawa_green"
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUBU
+}
+
+# Takeda
+TKD = {
+	color = { 181 12 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUBU
+}
+
+# Uesugi
+USG = {
+	color = { 237 226 225 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUBU
+}
+
+# STATE_CHUGOKU
+# Mimura
+MMR = {
+	color = { 204 171 94 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUGOKU
+}
+
+# Miura # Needs map changes
+
+# Mori
+MRI = {
+	color = { 255 204 38 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUGOKU
+}
+
+# Uragami 
+UGM = {
+	color = { 230 140 227 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUGOKU
+}
+
+# Yamana 
+YMN = {
+	color = { 63 222 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_CHUGOKU
+}
+
+# STATE_HOKKAIDO
+# Kakizaki
+KKZ = {
+	color = { 255 96 64 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_HOKKAIDO
+}
+
+# STATE_KANSAI
+# Ashikaga
+AKG = {
+	color = { 138 36 14 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Akamatsu
+AMT = {
+	color = { 0 34 92 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Azai
+AZI = {
+	color = { 41 77 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Bessho
+BSO = {
+	color = { 173 189 123 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Hatano # Needs map changes
+
+# Honganji
+HGJ = {
+	color = { 88 51 189 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Hosokawa # Needs map changes
+
+# Isshiki
+ISK = {
+	color = { 237 149 47 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Kawachi Hatakeyama # Needs map changes
+
+# Kitabatake
+KBT = {
+	color = { 128 235 96 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Matsunaga # Needs map changes
+
+# Rokkaku # Needs map changes
+
+# Suzuki
+SZK = {
+	color = { 214 50 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Tsutsui
+TTI = {
+	color = { 201 117 26 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+# Wakasa Takeda # Needs map changes
+
+# STATE_KANTO
+# Hojo
+HOJ = {
+	color = { 0 18 214 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANTO
+}
+
+# Nasu # Needs map changes
+
+# Oda number 2 # Needs map changes
+
+# Sano # Needs map changes
+
+# Satake
+STK = {
+	color = { 143 88 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANTO
+}
+
+# Satomi
+STM = {
+	color = { 255 242 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANTO
+}
+
+# Utsunomiya number 2
+
+# Yuki
+YKI = {
+	color = { 217 195 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANTO
+}
+
+# STATE_RYUKYU
+# Ryukyu Kingdom
+RYK = {
+	color = { 98 82 122 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_RYUKYU
+}
+
+# STATE_SHIKOKU
+# Aki # Needs map changes
+
+# Chosokabe
+CSK = {
+	color = { 77 168 59 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_SHIKOKU
+}
+
+# Ichijo # Needs map changes
+
+# Kono 
+KNO = {
+	color = { 124 161 156 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_SHIKOKU
+}
+
+# Miyoshi 
+MYO = {
+	color = { 25 55 227 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_SHIKOKU
+}
+
+# Motoyama # Needs map changes
+
+# Saionji
+SOJ = {
+	color = { 133 55 40 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_SHIKOKU
+}
+
+# Utsunomiya # Needs map changes
+
+# STATE_TOHOKU
+# Andō
+ADO = {
+	color = { 255 98 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Asari # Needs map changes
+
+# Ashina
+ASN = {
+	color = { 255 163 241 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Daihōji
+DHJ = {
+	color = { 16 222 115 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Date
+DTE = {
+	color = { 0 9 66 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Hienuki
+HKI = {
+	color = { 219 162 77 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Iwaki # Needs map changes
+
+# Kasai
+KSI = {
+	color = { 235 45 203 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Mogami
+MGM = {
+	color = { 255 145 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Namioka
+NMO = {
+	color = { 160 35 232 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Nanbu
+NAB = {
+	color = { 138 8 8 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+	
+# Nihonmatsu # Needs map changes
+
+# Onodera
+OND = {
+	color = { 5 74 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Ōsaki # Needs map changes
+
+# Shiba
+SBA = {
+	color = { 201 56 56 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Shirakawa  # Needs map changes
+
+# Sōma
+SMA = {
+	color = { 232 63 63 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Tamura
+TMR = {
+	color = { 100 255 69 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# Tozawa
+TZW = {
+	color = { 190 235 12 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_TOHOKU
+}
+
+# STATE_KYUSHU
+# Akizuki
+AZK = {
+	color = { 109 125 36 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# Arima # Needs map changes
+
+# Aso # Needs map changes
+
+# Ito
+ITO = {
+	color = { 65 12 102 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# Kimotsuki
+KMK = {
+	color = { 42 125 99 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# Matsura # Needs map changes
+
+# Otomo
+OTM = {
+	color = { 163 0 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# Ryuzoji
+RZJ = {
+	color = { 151 156 12 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# Shimazu
+SMZ = {
+	color = { 19 112 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# Sagara
+SGR = {
+	color = { 89 24 24 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# So
+SOU = {
+	color = { 255 85 0 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# Tanegashima 
+TGS = {
+	color = { 56 43 1 }
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KYUSHU
+}
+
+# Formable
+JPN = {
+	color = "white"
+	
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { japanese }
+	capital = STATE_KANSAI
+}
+
+PCH = {
+	color = "black"
+	
+	country_type = decentralized
+
+	tier = city_state
+	
+	cultures = { no_culture }
+	capital = STATE_ALASKA
+}

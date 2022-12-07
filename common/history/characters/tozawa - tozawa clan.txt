@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:TZW = {
+
+		create_character = {
+			ruler = yes
+			first_name = Michimori
+			last_name = Tozawa
+			age = 43
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Morishige
+			last_name = Tozawa
+			age = 16
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}

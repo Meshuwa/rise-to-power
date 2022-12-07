@@ -1,0 +1,553 @@
+﻿#
+# Note: the triggers are checked at certain key points in the code, not all the time
+# color_key = {
+#    color = "black"      # the map color
+#    possible = { ... }   # the trigger to enable this color
+# }
+#
+
+# Example
+#dynamic_map_color_swedish_junta = {
+#    color = "black"
+#	
+#	possible = {
+#		exists = c:SWE # you /must/ check that a tag exists before doing anything else
+#		this = c:SWE
+#
+#        exists = ig:ig_armed_forces
+#        ig:ig_armed_forces = {
+#            is_in_government = yes
+#        }
+#	}
+#}
+
+AGK_shogunate = {
+	color = color_ADO
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_ADO
+	}
+}
+AGK_shogunate = {	
+	color = color_AGK
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_AGK
+	}
+}
+AKA_shogunate = {	
+	color = color_AKA
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_AKA
+	}
+}
+AKG_shogunate = {	
+	color = color_AKG
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_AKG
+	}
+}
+AMT_shogunate = {	
+	color = color_AMT
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_AMT
+	}
+}
+ASN_shogunate = {	
+	color = color_ASN
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_ASN
+	}
+}
+AZI_shogunate = {	
+	color = color_AZI
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_AZI
+	}
+}
+AZK_shogunate = {	
+	color = color_AZK
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_AZK
+	}
+}
+BSO_shogunate = {	
+	color = color_BSO
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_BSO
+	}
+}
+CSK_shogunate = {	
+	color = color_CSK
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_CSK
+	}
+}
+DHJ_shogunate = {	
+	color = color_DHJ
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_DHJ
+	}
+}
+DTE_shogunate = {	
+	color = color_DTE
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_DTE
+	}
+}
+HGJ_shogunate = {	
+	color = color_HGJ
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_HGJ
+	}
+}
+HKI_shogunate = {	
+	color = color_HKI
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_HKI
+	}
+}
+HOJ_shogunate = {	
+	color = color_HOJ
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_HOJ
+	}
+}
+ISK_shogunate = {	
+	color = color_ISK
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_ISK
+	}
+}
+IMA_shogunate = {	
+	color = color_IMA
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_IMA
+	}
+}
+ITO_shogunate = {	
+	color = color_ITO
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_ITO
+	}
+}
+KBT_shogunate = {	
+	color = color_KBT
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_KBT
+	}
+}
+KKZ_shogunate = {	
+	color = color_KKZ
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_KKZ
+	}
+}
+KMK_shogunate = {	
+	color = color_KMK
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_KMK
+	}
+}
+KNO_shogunate = {	
+	color = color_KNO
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_KNO
+	}
+}
+KSI_shogunate = {	
+	color = color_KSI
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_KSI
+	}
+}
+MGM_shogunate = {	
+	color = color_MGM
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_MGM
+	}
+}
+MMR_shogunate = {	
+	color = color_MMR
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_MMR
+	}
+}
+MRI_shogunate = {	
+	color = color_MRI
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_MRI
+	}
+}
+MYO_shogunate = {	
+	color = color_MYO
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_MYO
+	}
+}
+NAB_shogunate = {	
+	color = color_NAB
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_NAB
+	}
+}
+NMO_shogunate = {	
+	color = color_NMO
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_NMO
+	}
+}
+ODA_shogunate = {	
+	color = color_ODA
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_ODA
+	}
+}
+OND_shogunate = {	
+	color = color_OND
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_
+	}
+}
+OTM_shogunate = {
+	color = color_OTM
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_OTM
+	}
+}
+RYK_shogunate = {	
+	color = color_RYK
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_RYK
+	}
+}
+RZJ_shogunate = {	
+	color = color_RZJ
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_RZJ
+	}
+}
+SBA_shogunate = {	
+	color = color_SBA
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_SBA
+	}
+}
+SGR_shogunate = {	
+	color = color_SGR
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_SGR
+	}
+}
+SMA_shogunate = {	
+	color = color_SMA
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_SMA
+	}
+}
+SMZ_shogunate = {	
+	color = color_SMZ
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_SMZ
+	}
+}
+SOJ_shogunate = {	
+	color = color_SOJ
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_SOJ
+	}
+}
+SOU_shogunate = {	
+	color = color_SOU
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_SOU
+	}
+}
+STK_shogunate = {	
+	color = color_STK
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_STK
+	}
+}
+STM_shogunate = {	
+	color = color_STM
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_STM
+	}
+}
+SZK_shogunate = {	
+	color = color_SZK
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_SZK
+	}
+}
+TGS_shogunate = {	
+	color = color_TGS
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_TGS
+	}
+}
+TKD_shogunate = {	
+	color = color_TKD
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_TKD
+	}
+}
+TKG_shogunate = {	
+	color = "tokugawa_green"
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_TKG
+	}
+}
+TMR_shogunate = {	
+	color = color_TMR
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_TMR
+	}
+}
+TTI_shogunate = {	
+	color = color_TTI
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_TTI
+	}
+}
+TZW_shogunate = {	
+	color = color_TZW
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_TZW
+	}
+}
+UGM_shogunate = {	
+	color = color_UGM
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_UGM
+	}
+}
+USG_shogunate = {	
+	color = color_USG
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_USG
+	}
+}
+YKI_shogunate = {	
+	color = color_YKI
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_YKI
+	}
+}
+YMN_shogunate = {	
+	color = color_YMN
+	possible = {
+		exists = c:JPN
+		THIS = c:JPN
+		has_law =law_type:law_monarchy
+		NOT = { has_variable = meiji_var }
+		has_variable = base_country_YMN
+	}
+}

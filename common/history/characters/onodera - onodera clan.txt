@@ -1,0 +1,31 @@
+﻿CHARACTERS = {
+	c:OND = {
+
+		create_character = {
+			ruler = yes
+			first_name = Terumichi
+			last_name = Onodera
+			birth_date = 1534.06.23
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				arrogant
+				expensive_tastes # bit of corruption
+			}
+		}
+
+		create_character = {
+			heir = yes
+			first_name = Yoshimichi
+			last_name = Onodera
+			birth_date = 1566.9.19
+			interest_group = ig_landowners
+			ideology = ideology_traditionalist
+			traits = {
+				meticulous
+				pious
+			}
+		}
+		
+	}
+}
